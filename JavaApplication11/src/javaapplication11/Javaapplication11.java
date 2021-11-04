@@ -9,7 +9,7 @@ package javaapplication11;
  *
  * @author Personal
  */
-public class JavaApplication11 {
+public class Javaapplication11 {
 
     /**
      * @param args the command line arguments
